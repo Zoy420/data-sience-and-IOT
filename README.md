@@ -1,2 +1,2 @@
 # data-sience-and-IOT
-kuezevak po3
+keuzevak po3
